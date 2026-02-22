@@ -2,8 +2,6 @@
 
 # 🐹 Go Reverse + Fuzz Testing — Learning Go Testing & Fuzzing
 
-A Go project demonstrating **string reversal**, **unit testing**, and **fuzz testing** using Go’s built-in testing framework.
-
 This repository explores:
 
 - Writing reusable string utilities  
