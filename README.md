@@ -1,6 +1,6 @@
 ---
 
-# 🐹 Go Reverse + Fuzz Testing — Learning Go Testing & Fuzzing
+# 🐹 Go Reverse + Fuzz Testing - Learning Go Testing & Fuzzing
 
 This repository explores:
 - Writing reusable string utilities  
