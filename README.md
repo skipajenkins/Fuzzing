@@ -3,7 +3,6 @@
 # 🐹 Go Reverse + Fuzz Testing — Learning Go Testing & Fuzzing
 
 This repository explores:
-
 - Writing reusable string utilities  
 - Validating correctness using unit tests  
 - Discovering edge cases using fuzz testing  
